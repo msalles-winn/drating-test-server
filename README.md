@@ -20,4 +20,4 @@ To do :
  ```
  or better if you like.
 
- - Implement the endpoint which gets objects close to given coordinates. You can use Overpass API (as an example, this URL gets amenities close to coordinates, for example : `http://overpass-api.de/api/interpreter?data=[out:json];(node[%22amenity%22](around:2000,51.5,0.01);way[%22amenity%22](around:2000,51.5,0.01);relation[%22amenity%22](around:2000,51.5,0.01););out;%3E;)`
+ - Implement the endpoint which gets objects close to given coordinates. You can use Overpass API (as an example, this URL gets amenities close to coordinates, for example : `http://overpass-api.de/api/interpreter?data=[out:json];(node[%22amenity%22](around:2000,51.5,0.01);way[%22amenity%22](around:2000,51.5,0.01);relation[%22amenity%22](around:2000,51.5,0.01););out;%3E;`
